@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "من نحن",
-                "url": "/features",
+                "url": "/About",
                 "style": "link"
             },
             {
